@@ -1,0 +1,5 @@
+
+#!/bin/bash
+cd /home/azureuser/gen_models/waterHeater/
+python3  delOverlapping.py &>> log_wh.txt
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/azureuser/gen_models/waterHeater/
+python3  getEvents.py &>> log_wh.txt

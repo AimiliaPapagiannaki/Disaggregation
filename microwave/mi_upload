@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/azureuser/gen_models/microwave
+sudo python3 uploadToTb.py
+

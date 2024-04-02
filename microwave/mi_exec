@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/azureuser/gen_models/microwave
+python3 getEvents.py &>> log_mi.txt
+

@@ -56,7 +56,7 @@ for item in os.listdir(dir):
          x = [int(y) for y in x]
          startDate = datetime.datetime(*x[:3])
          endDate = datetime.datetime(*x[3:])
-         if (endDate - startDate).total_seconds()/60 <= 2*24*60: #Duration of event < 2 days. <---Remember to change this
+         if (endDate - startDate).total_seconds()/60 >= 2*24*60: #Duration of event < 2 days. <---Remember to change this
               with open(dir+"/"+item, "r") as f:
                   jsonData = json.loads(f.read())
               dataDf = pd.DataFrame.from_dict(jsonData, orient='columns')
@@ -88,7 +88,7 @@ for item in os.listdir(dir):
               #sys.exit()
               dataDf['startDay'] = dataDf['startDay'].astype('int64')
               dataDf['endDay'] = dataDf['endDay'].astype('int64')
-              dataDf['diff'] = (dataDf['endTs'] - dataDf['startTs'])/1000
+              dataDf['diff'] = (dataDf['endTs'] - dataDf['startTs'])/(360 * 1000)
 
               for i in dataDf.itertuples():
                   if i.startDay != i.endDay:
@@ -115,5 +115,5 @@ print(list2)
 res = requests.post(address + f'/api/plugins/telemetry/DEVICE/{devId}/timeseries/ANY?scope=ANY', data=json.dumps(list2), headers=headers)
 
 
-with open("/home/azureuser/gen_models/microwave/test_log.txt", "w") as f:
-    f.write(str(list2)) #"""
+#with open("/home/azureuser/gen_models/microwave/test_log.txt", "w") as f:
+#    f.write(str(list2)) #"""

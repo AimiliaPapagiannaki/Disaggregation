@@ -1,0 +1,4 @@
+sN=2209&ms=381705&P1&S1&avgP=333,8&minP=252,0&maxP=373,6&stdP=34,0&avgR=4,6&minR=2,2&maxR=9,3&stdR=1,7&ms_S=380015&ms_E=380405
+sN=2215&ms=381755&P1&S2&avgP=143,3&minP=86,0&maxP=244,3&stdP=47,0&avgR=5,3&minR=2,5&maxR=9,1&stdR=1,7&ms_S=380415&ms_E=380805
+sN=2221&ms=381805&P1&S3&avgP=70,1&minP=64,0&maxP=84,6&stdP=5,9&avgR=3,0&minR=0,8&maxR=9,0&stdR=1,9&ms_S=380815&ms_E=381205
+sN=2227&ms=381855&P1&S4&avgP=60,2&minP=60,2&maxP=63,7&stdP=1,0&avgR=2,9&minR=2,4&maxR=5,6&stdR=0,9&ms_S=381215&ms_E=381605

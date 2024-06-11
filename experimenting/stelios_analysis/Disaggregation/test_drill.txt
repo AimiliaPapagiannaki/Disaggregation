@@ -1,0 +1,783 @@
+iteration for i=0 
+stable avg active 0.135000, steady avg reactive 1.375000 
+mean active: 76.592500 
+min active: 75.265000 
+max active: 78.265000 
+std active: 0.882323 
+mean reactive: 3.992500 
+min reactive: 2.325000 
+max reactive: 6.125000 
+std reactive: 0.977340 
+************************************************iteration for i=1 
+stable avg active 0.140000, steady avg reactive 1.495000 
+mean active: 76.515000 
+min active: 75.260000 
+max active: 78.160000 
+std active: 0.860799 
+mean reactive: 3.847500 
+min reactive: 2.205000 
+max reactive: 6.005000 
+std reactive: 0.988910 
+************************************************iteration for i=2 
+stable avg active 0.140000, steady avg reactive 1.590000 
+mean active: 76.445000 
+min active: 75.260000 
+max active: 78.060000 
+std active: 0.837720 
+mean reactive: 3.730000 
+min reactive: 2.110000 
+max reactive: 5.910000 
+std reactive: 0.999800 
+************************************************iteration for i=3 
+stable avg active 0.140000, steady avg reactive 1.560000 
+mean active: 76.377500 
+min active: 75.260000 
+max active: 77.960000 
+std active: 0.813292 
+mean reactive: 3.762500 
+min reactive: 2.140000 
+max reactive: 5.940000 
+std reactive: 0.995863 
+************************************************iteration for i=4 
+stable avg active 0.140000, steady avg reactive 1.510000 
+mean active: 76.312500 
+min active: 75.260000 
+max active: 77.860000 
+std active: 0.787714 
+mean reactive: 3.815000 
+min reactive: 2.290000 
+max reactive: 5.990000 
+std reactive: 0.991905 
+************************************************iteration for i=5 
+stable avg active 0.135000, steady avg reactive 1.555000 
+mean active: 76.255000 
+min active: 75.265000 
+max active: 77.765000 
+std active: 0.761183 
+mean reactive: 3.775000 
+min reactive: 2.245000 
+max reactive: 5.945000 
+std reactive: 0.990252 
+************************************************iteration for i=6 
+stable avg active 0.130000, steady avg reactive 1.575000 
+mean active: 76.200000 
+min active: 75.270000 
+max active: 77.570000 
+std active: 0.733894 
+mean reactive: 3.760000 
+min reactive: 2.225000 
+max reactive: 5.925000 
+std reactive: 0.988572 
+************************************************iteration for i=7 
+stable avg active 0.125000, steady avg reactive 1.980000 
+mean active: 76.152500 
+min active: 75.275000 
+max active: 77.475000 
+std active: 0.708692 
+mean reactive: 3.367500 
+min reactive: 1.820000 
+max reactive: 5.520000 
+std reactive: 0.975958 
+************************************************iteration for i=8 
+stable avg active 0.120000, steady avg reactive 1.975000 
+mean active: 76.110000 
+min active: 75.280000 
+max active: 77.380000 
+std active: 0.681616 
+mean reactive: 3.385000 
+min reactive: 1.825000 
+max reactive: 5.525000 
+std reactive: 0.963016 
+************************************************iteration for i=9 
+stable avg active 0.115000, steady avg reactive 1.625000 
+mean active: 76.070000 
+min active: 75.285000 
+max active: 77.285000 
+std active: 0.655191 
+mean reactive: 3.742500 
+min reactive: 2.175000 
+max reactive: 5.875000 
+std reactive: 0.959007 
+************************************************iteration for i=10 
+stable avg active 0.110000, steady avg reactive 1.560000 
+mean active: 76.035000 
+min active: 75.290000 
+max active: 77.290000 
+std active: 0.628072 
+mean reactive: 3.815000 
+min reactive: 2.240000 
+max reactive: 5.940000 
+std reactive: 0.954921 
+************************************************iteration for i=11 
+stable avg active 0.105000, steady avg reactive 1.745000 
+mean active: 76.002500 
+min active: 75.295000 
+max active: 77.195000 
+std active: 0.595981 
+mean reactive: 3.662500 
+min reactive: 2.055000 
+max reactive: 5.755000 
+std reactive: 0.977084 
+************************************************iteration for i=12 
+stable avg active 0.100000, steady avg reactive 2.165000 
+mean active: 75.975000 
+min active: 75.300000 
+max active: 77.100000 
+std active: 0.564690 
+mean reactive: 3.275000 
+min reactive: 1.635000 
+max reactive: 5.335000 
+std reactive: 0.997697 
+************************************************iteration for i=13 
+stable avg active 0.095000, steady avg reactive 2.345000 
+mean active: 75.950000 
+min active: 75.305000 
+max active: 77.105000 
+std active: 0.535234 
+mean reactive: 3.110000 
+min reactive: 1.455000 
+max reactive: 5.155000 
+std reactive: 1.002983 
+************************************************iteration for i=14 
+stable avg active 0.085000, steady avg reactive 2.325000 
+mean active: 75.932500 
+min active: 75.315000 
+max active: 77.015000 
+std active: 0.502438 
+mean reactive: 3.145000 
+min reactive: 1.475000 
+max reactive: 5.175000 
+std reactive: 1.008018 
+************************************************iteration for i=15 
+stable avg active 0.075000, steady avg reactive 2.370000 
+mean active: 75.917500 
+min active: 75.325000 
+max active: 76.925000 
+std active: 0.471904 
+mean reactive: 3.100000 
+min reactive: 1.430000 
+max reactive: 5.130000 
+std reactive: 1.008018 
+************************************************iteration for i=16 
+stable avg active 0.065000, steady avg reactive 2.415000 
+mean active: 75.907500 
+min active: 75.335000 
+max active: 76.835000 
+std active: 0.444965 
+mean reactive: 3.057500 
+min reactive: 1.385000 
+max reactive: 5.085000 
+std reactive: 1.006476 
+************************************************iteration for i=17 
+stable avg active 0.055000, steady avg reactive 2.275000 
+mean active: 75.900000 
+min active: 75.345000 
+max active: 76.745000 
+std active: 0.421278 
+mean reactive: 3.102500 
+min reactive: 1.125000 
+max reactive: 5.225000 
+std reactive: 1.018206 
+************************************************iteration for i=18 
+stable avg active 0.045000, steady avg reactive 2.135000 
+mean active: 75.897500 
+min active: 75.355000 
+max active: 76.755000 
+std active: 0.403043 
+mean reactive: 3.147500 
+min reactive: 1.265000 
+max reactive: 5.365000 
+std reactive: 1.021001 
+************************************************iteration for i=19 
+stable avg active 0.040000, steady avg reactive 1.760000 
+mean active: 75.890000 
+min active: 75.360000 
+max active: 76.660000 
+std active: 0.383536 
+mean reactive: 3.510000 
+min reactive: 1.640000 
+max reactive: 5.740000 
+std reactive: 1.023768 
+************************************************iteration for i=20 
+stable avg active 0.035000, steady avg reactive 1.740000 
+mean active: 75.887500 
+min active: 75.365000 
+max active: 76.665000 
+std active: 0.371138 
+mean reactive: 3.517500 
+min reactive: 1.660000 
+max reactive: 5.760000 
+std reactive: 1.026374 
+************************************************iteration for i=21 
+stable avg active 0.030000, steady avg reactive 1.730000 
+mean active: 75.885000 
+min active: 75.370000 
+max active: 76.570000 
+std active: 0.358155 
+mean reactive: 3.507500 
+min reactive: 1.670000 
+max reactive: 5.770000 
+std reactive: 1.015551 
+************************************************iteration for i=22 
+stable avg active 0.030000, steady avg reactive 1.765000 
+mean active: 75.882500 
+min active: 75.370000 
+max active: 76.470000 
+std active: 0.353686 
+mean reactive: 3.452500 
+min reactive: 1.635000 
+max reactive: 5.735000 
+std reactive: 1.004213 
+************************************************iteration for i=23 
+stable avg active 0.030000, steady avg reactive 1.800000 
+mean active: 75.882500 
+min active: 75.370000 
+max active: 76.470000 
+std active: 0.353686 
+mean reactive: 3.395000 
+min reactive: 1.600000 
+max reactive: 5.700000 
+std reactive: 1.000987 
+************************************************iteration for i=24 
+stable avg active 0.035000, steady avg reactive 1.800000 
+mean active: 75.877500 
+min active: 75.365000 
+max active: 76.465000 
+std active: 0.353686 
+mean reactive: 3.372500 
+min reactive: 1.600000 
+max reactive: 5.700000 
+std reactive: 0.997243 
+************************************************iteration for i=25 
+stable avg active 0.045000, steady avg reactive 1.800000 
+mean active: 75.870000 
+min active: 75.355000 
+max active: 76.455000 
+std active: 0.357456 
+mean reactive: 3.325000 
+min reactive: 1.600000 
+max reactive: 5.700000 
+std reactive: 0.968181 
+************************************************iteration for i=26 
+stable avg active 0.055000, steady avg reactive 1.795000 
+mean active: 75.867500 
+min active: 75.345000 
+max active: 76.545000 
+std active: 0.368434 
+mean reactive: 3.282500 
+min reactive: 1.605000 
+max reactive: 5.705000 
+std reactive: 0.935812 
+************************************************iteration for i=27 
+stable avg active 0.060000, steady avg reactive 1.400000 
+mean active: 75.872500 
+min active: 75.340000 
+max active: 76.540000 
+std active: 0.381043 
+mean reactive: 3.677500 
+min reactive: 2.000000 
+max reactive: 6.100000 
+std reactive: 0.935812 
+************************************************iteration for i=28 
+stable avg active 0.065000, steady avg reactive 1.205000 
+mean active: 75.877500 
+min active: 75.335000 
+max active: 76.535000 
+std active: 0.392993 
+mean reactive: 3.872500 
+min reactive: 2.195000 
+max reactive: 6.295000 
+std reactive: 0.935812 
+************************************************iteration for i=29 
+stable avg active 0.070000, steady avg reactive 1.355000 
+mean active: 75.887500 
+min active: 75.330000 
+max active: 76.630000 
+std active: 0.409809 
+mean reactive: 3.782500 
+min reactive: 2.045000 
+max reactive: 6.145000 
+std reactive: 0.979206 
+************************************************iteration for i=30 
+stable avg active 0.075000, steady avg reactive 1.235000 
+mean active: 75.900000 
+min active: 75.325000 
+max active: 76.625000 
+std active: 0.425881 
+mean reactive: 3.962500 
+min reactive: 2.165000 
+max reactive: 6.265000 
+std reactive: 1.017224 
+************************************************iteration for i=31 
+stable avg active 0.080000, steady avg reactive 1.270000 
+mean active: 75.917500 
+min active: 75.320000 
+max active: 76.720000 
+std active: 0.444684 
+mean reactive: 3.935000 
+min reactive: 2.130000 
+max reactive: 6.230000 
+std reactive: 1.013891 
+************************************************iteration for i=32 
+stable avg active 0.085000, steady avg reactive 1.190000 
+mean active: 75.937500 
+min active: 75.315000 
+max active: 76.715000 
+std active: 0.460699 
+mean reactive: 3.950000 
+min reactive: 2.210000 
+max reactive: 5.810000 
+std reactive: 0.945727 
+************************************************iteration for i=33 
+stable avg active 0.090000, steady avg reactive 1.335000 
+mean active: 75.960000 
+min active: 75.310000 
+max active: 76.710000 
+std active: 0.473286 
+mean reactive: 3.870000 
+min reactive: 2.065000 
+max reactive: 5.665000 
+std reactive: 0.981313 
+************************************************iteration for i=34 
+stable avg active 0.090000, steady avg reactive 1.390000 
+mean active: 75.990000 
+min active: 75.310000 
+max active: 76.710000 
+std active: 0.481768 
+mean reactive: 3.880000 
+min reactive: 2.010000 
+max reactive: 5.610000 
+std reactive: 1.011484 
+************************************************iteration for i=35 
+stable avg active 0.090000, steady avg reactive 1.240000 
+mean active: 76.020000 
+min active: 75.310000 
+max active: 76.710000 
+std active: 0.488262 
+mean reactive: 4.027500 
+min reactive: 2.160000 
+max reactive: 5.760000 
+std reactive: 1.008064 
+************************************************iteration for i=36 
+stable avg active 0.090000, steady avg reactive 1.300000 
+mean active: 76.050000 
+min active: 75.310000 
+max active: 76.710000 
+std active: 0.492849 
+mean reactive: 3.965000 
+min reactive: 2.100000 
+max reactive: 5.700000 
+std reactive: 1.004627 
+************************************************iteration for i=37 
+stable avg active 0.090000, steady avg reactive 1.280000 
+mean active: 76.082500 
+min active: 75.310000 
+max active: 76.710000 
+std active: 0.492437 
+mean reactive: 3.987500 
+min reactive: 2.120000 
+max reactive: 5.720000 
+std reactive: 1.003840 
+************************************************iteration for i=38 
+stable avg active 0.090000, steady avg reactive 1.260000 
+mean active: 76.117500 
+min active: 75.310000 
+max active: 76.810000 
+std active: 0.493147 
+mean reactive: 4.010000 
+min reactive: 2.140000 
+max reactive: 5.740000 
+std reactive: 1.003045 
+************************************************iteration for i=39 
+stable avg active 0.085000, steady avg reactive 1.405000 
+mean active: 76.157500 
+min active: 75.315000 
+max active: 76.815000 
+std active: 0.491369 
+mean reactive: 3.877500 
+min reactive: 1.995000 
+max reactive: 5.595000 
+std reactive: 0.997719 
+************************************************iteration for i=40 
+stable avg active 0.080000, steady avg reactive 1.185000 
+mean active: 76.197500 
+min active: 75.420000 
+max active: 76.820000 
+std active: 0.479837 
+mean reactive: 4.110000 
+min reactive: 2.215000 
+max reactive: 5.815000 
+std reactive: 0.992207 
+************************************************iteration for i=41 
+stable avg active 0.075000, steady avg reactive 1.200000 
+mean active: 76.235000 
+min active: 75.425000 
+max active: 76.825000 
+std active: 0.470000 
+mean reactive: 4.102500 
+min reactive: 2.200000 
+max reactive: 5.800000 
+std reactive: 0.986531 
+************************************************iteration for i=42 
+stable avg active 0.070000, steady avg reactive 1.205000 
+mean active: 76.272500 
+min active: 75.430000 
+max active: 76.830000 
+std active: 0.457650 
+mean reactive: 4.105000 
+min reactive: 2.195000 
+max reactive: 5.795000 
+std reactive: 0.980765 
+************************************************iteration for i=43 
+stable avg active 0.065000, steady avg reactive 1.140000 
+mean active: 76.310000 
+min active: 75.435000 
+max active: 76.835000 
+std active: 0.442578 
+mean reactive: 4.232500 
+min reactive: 2.260000 
+max reactive: 5.860000 
+std reactive: 0.962026 
+************************************************iteration for i=44 
+stable avg active 0.055000, steady avg reactive 1.210000 
+mean active: 76.350000 
+min active: 75.445000 
+max active: 76.845000 
+std active: 0.422463 
+mean reactive: 4.225000 
+min reactive: 2.190000 
+max reactive: 5.790000 
+std reactive: 0.938762 
+************************************************iteration for i=45 
+stable avg active 0.045000, steady avg reactive 1.210000 
+mean active: 76.390000 
+min active: 75.455000 
+max active: 76.855000 
+std active: 0.399093 
+mean reactive: 4.197500 
+min reactive: 2.190000 
+max reactive: 5.790000 
+std reactive: 0.963947 
+************************************************iteration for i=46 
+stable avg active 0.035000, steady avg reactive 1.240000 
+mean active: 76.430000 
+min active: 75.565000 
+max active: 76.865000 
+std active: 0.371853 
+mean reactive: 4.140000 
+min reactive: 2.160000 
+max reactive: 5.760000 
+std reactive: 0.987725 
+************************************************iteration for i=47 
+stable avg active 0.030000, steady avg reactive 1.660000 
+mean active: 76.462500 
+min active: 75.670000 
+max active: 76.870000 
+std active: 0.346690 
+mean reactive: 3.750000 
+min reactive: 1.740000 
+max reactive: 5.340000 
+std reactive: 0.981784 
+************************************************iteration for i=48 
+stable avg active 0.025000, steady avg reactive 1.875000 
+mean active: 76.492500 
+min active: 75.675000 
+max active: 76.875000 
+std active: 0.323950 
+mean reactive: 3.565000 
+min reactive: 1.525000 
+max reactive: 5.125000 
+std reactive: 0.974885 
+************************************************iteration for i=49 
+stable avg active 0.020000, steady avg reactive 2.090000 
+mean active: 76.520000 
+min active: 75.780000 
+max active: 76.880000 
+std active: 0.296479 
+mean reactive: 3.332500 
+min reactive: 1.310000 
+max reactive: 4.910000 
+std reactive: 0.988809 
+************************************************iteration for i=50 
+stable avg active 0.015000, steady avg reactive 2.250000 
+mean active: 76.547500 
+min active: 75.885000 
+max active: 76.885000 
+std active: 0.272661 
+mean reactive: 3.155000 
+min reactive: 1.150000 
+max reactive: 4.750000 
+std reactive: 1.002235 
+************************************************iteration for i=51 
+stable avg active 0.010000, steady avg reactive 2.450000 
+mean active: 76.572500 
+min active: 75.990000 
+max active: 76.890000 
+std active: 0.251880 
+mean reactive: 2.917500 
+min reactive: 0.950000 
+max reactive: 4.550000 
+std reactive: 0.980915 
+************************************************iteration for i=52 
+stable avg active 0.005000, steady avg reactive 2.530000 
+mean active: 76.592500 
+min active: 75.995000 
+max active: 76.895000 
+std active: 0.233974 
+mean reactive: 2.800000 
+min reactive: 0.870000 
+max reactive: 4.470000 
+std reactive: 0.957653 
+************************************************iteration for i=53 
+stable avg active 0.000000, steady avg reactive 2.600000 
+mean active: 76.615000 
+min active: 76.100000 
+max active: 76.900000 
+std active: 0.213951 
+mean reactive: 2.670000 
+min reactive: 0.800000 
+max reactive: 4.400000 
+std reactive: 0.982395 
+************************************************iteration for i=54 
+stable avg active 0.000000, steady avg reactive 2.495000 
+mean active: 76.630000 
+min active: 76.100000 
+max active: 76.900000 
+std active: 0.197737 
+mean reactive: 2.715000 
+min reactive: 0.905000 
+max reactive: 4.505000 
+std reactive: 1.002946 
+************************************************iteration for i=55 
+stable avg active 0.000000, steady avg reactive 2.595000 
+mean active: 76.647500 
+min active: 76.200000 
+max active: 76.900000 
+std active: 0.180260 
+mean reactive: 2.637500 
+min reactive: 0.805000 
+max reactive: 4.405000 
+std reactive: 1.005830 
+************************************************iteration for i=56 
+stable avg active 0.000000, steady avg reactive 2.510000 
+mean active: 76.662500 
+min active: 76.200000 
+max active: 76.900000 
+std active: 0.166864 
+mean reactive: 2.745000 
+min reactive: 0.890000 
+max reactive: 4.490000 
+std reactive: 1.008204 
+************************************************iteration for i=57 
+stable avg active 0.000000, steady avg reactive 2.860000 
+mean active: 76.677500 
+min active: 76.300000 
+max active: 76.900000 
+std active: 0.150810 
+mean reactive: 2.445000 
+min reactive: 0.540000 
+max reactive: 4.140000 
+std reactive: 0.963574 
+************************************************iteration for i=58 
+stable avg active 0.000000, steady avg reactive 3.210000 
+mean active: 76.690000 
+min active: 76.300000 
+max active: 76.900000 
+std active: 0.139284 
+mean reactive: 2.145000 
+min reactive: 0.490000 
+max reactive: 3.790000 
+std reactive: 0.914043 
+************************************************iteration for i=59 
+stable avg active 0.000000, steady avg reactive 3.175000 
+mean active: 76.702500 
+min active: 76.400000 
+max active: 76.900000 
+std active: 0.125474 
+mean reactive: 2.195000 
+min reactive: 0.525000 
+max reactive: 3.825000 
+std reactive: 0.909725 
+************************************************iteration for i=60 
+stable avg active 0.000000, steady avg reactive 3.415000 
+mean active: 76.715000 
+min active: 76.400000 
+max active: 76.900000 
+std active: 0.119478 
+mean reactive: 1.970000 
+min reactive: 0.285000 
+max reactive: 3.585000 
+std reactive: 0.905138 
+************************************************iteration for i=61 
+stable avg active 0.000000, steady avg reactive 3.420000 
+mean active: 76.727500 
+min active: 76.500000 
+max active: 76.900000 
+std active: 0.111775 
+mean reactive: 1.945000 
+min reactive: 0.280000 
+max reactive: 3.580000 
+std reactive: 0.913387 
+************************************************iteration for i=62 
+stable avg active 0.000000, steady avg reactive 3.435000 
+mean active: 76.737500 
+min active: 76.500000 
+max active: 76.900000 
+std active: 0.108829 
+mean reactive: 1.910000 
+min reactive: 0.265000 
+max reactive: 3.565000 
+std reactive: 0.921127 
+************************************************iteration for i=63 
+stable avg active 0.000000, steady avg reactive 3.210000 
+mean active: 76.750000 
+min active: 76.500000 
+max active: 77.000000 
+std active: 0.109545 
+mean reactive: 2.135000 
+min reactive: 0.490000 
+max reactive: 3.790000 
+std reactive: 0.921127 
+************************************************iteration for i=64 
+stable avg active 0.000000, steady avg reactive 2.905000 
+mean active: 76.762500 
+min active: 76.500000 
+max active: 77.000000 
+std active: 0.108829 
+mean reactive: 2.440000 
+min reactive: 0.795000 
+max reactive: 4.095000 
+std reactive: 0.921127 
+************************************************iteration for i=65 
+stable avg active 0.000000, steady avg reactive 2.605000 
+mean active: 76.775000 
+min active: 76.600000 
+max active: 77.000000 
+std active: 0.106654 
+mean reactive: 2.735000 
+min reactive: 1.095000 
+max reactive: 4.395000 
+std reactive: 0.924608 
+************************************************iteration for i=66 
+stable avg active 0.000000, steady avg reactive 2.605000 
+mean active: 76.785000 
+min active: 76.600000 
+max active: 77.000000 
+std active: 0.108513 
+mean reactive: 2.730000 
+min reactive: 1.095000 
+max reactive: 4.395000 
+std reactive: 0.928049 
+************************************************iteration for i=67 
+stable avg active 0.005000, steady avg reactive 2.250000 
+mean active: 76.790000 
+min active: 76.595000 
+max active: 76.995000 
+std active: 0.109430 
+mean reactive: 3.077500 
+min reactive: 1.450000 
+max reactive: 4.750000 
+std reactive: 0.920594 
+************************************************iteration for i=68 
+stable avg active 0.010000, steady avg reactive 2.175000 
+mean active: 76.790000 
+min active: 76.590000 
+max active: 76.990000 
+std active: 0.106217 
+mean reactive: 3.125000 
+min reactive: 1.525000 
+max reactive: 4.825000 
+std reactive: 0.915955 
+************************************************iteration for i=69 
+stable avg active 0.015000, steady avg reactive 2.100000 
+mean active: 76.787632 
+min active: 76.585000 
+max active: 76.985000 
+std active: 0.106343 
+mean reactive: 3.155263 
+min reactive: 1.600000 
+max reactive: 4.900000 
+std reactive: 0.884872 
+************************************************iteration for i=70 
+stable avg active 0.020000, steady avg reactive 2.105000 
+mean active: 76.785405 
+min active: 76.580000 
+max active: 76.980000 
+std active: 0.106406 
+mean reactive: 3.103108 
+min reactive: 1.595000 
+max reactive: 4.895000 
+std reactive: 0.848330 
+************************************************iteration for i=71 
+stable avg active 0.025000, steady avg reactive 2.070000 
+mean active: 76.780556 
+min active: 76.575000 
+max active: 76.975000 
+std active: 0.107869 
+mean reactive: 3.146667 
+min reactive: 1.630000 
+max reactive: 4.930000 
+std reactive: 0.858455 
+************************************************iteration for i=72 
+stable avg active 0.030000, steady avg reactive 2.050000 
+mean active: 76.775714 
+min active: 76.570000 
+max active: 76.970000 
+std active: 0.109395 
+mean reactive: 3.175714 
+min reactive: 1.650000 
+max reactive: 4.950000 
+std reactive: 0.868938 
+************************************************iteration for i=73 
+stable avg active 0.035000, steady avg reactive 2.035000 
+mean active: 76.770882 
+min active: 76.565000 
+max active: 76.965000 
+std active: 0.110988 
+mean reactive: 3.138529 
+min reactive: 1.665000 
+max reactive: 4.965000 
+std reactive: 0.825800 
+************************************************iteration for i=74 
+stable avg active 0.040000, steady avg reactive 2.110000 
+mean active: 76.766061 
+min active: 76.560000 
+max active: 76.960000 
+std active: 0.112652 
+mean reactive: 3.008182 
+min reactive: 1.590000 
+max reactive: 4.490000 
+std reactive: 0.773600 
+************************************************iteration for i=75 
+stable avg active 0.045000, steady avg reactive 1.805000 
+mean active: 76.761250 
+min active: 76.555000 
+max active: 76.955000 
+std active: 0.114394 
+mean reactive: 3.266875 
+min reactive: 1.895000 
+max reactive: 4.795000 
+std reactive: 0.739186 
+************************************************iteration for i=76 
+stable avg active 0.055000, steady avg reactive 1.475000 
+mean active: 76.751452 
+min active: 76.545000 
+max active: 76.945000 
+std active: 0.116219 
+mean reactive: 3.547581 
+min reactive: 2.225000 
+max reactive: 4.825000 
+std reactive: 0.697327 
+************************************************iteration for i=77 
+stable avg active 0.065000, steady avg reactive 1.340000 
+mean active: 76.741667 
+min active: 76.535000 
+max active: 76.935000 
+std active: 0.118134 
+mean reactive: 3.683333 
+min reactive: 2.360000 
+max reactive: 4.960000 
+std reactive: 0.708841 
+************************************************iteration for i=78 
+stable avg active 0.075000, steady avg reactive 1.345000 
+mean active: 76.728448 

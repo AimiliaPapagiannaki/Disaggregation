@@ -1,0 +1,5 @@
+sN=2971&ms=132590&P1&time=1601541334&S0&avgSP=2.125&avgSR=3.289
+sN=2971&ms=132590&P1&time=1601541335&S1&avgP=2.123&minP=<x,xxx>&maxP=<x,xxx>&stdP=<x,xxx>&avgR=<x,xxx>&minR=<x,xxx>&maxR=<x,xxx>&stdR=<x,xxx>
+sN=2972&ms=132590&P1&time=1601541336&S2&avgP=2.123&minP=<x,xxx>&maxP=<x,xxx>&stdP=<x,xxx>&avgR=<x,xxx>&minR=<x,xxx>&maxR=<x,xxx>&stdR=<x,xxx>
+sN=2973&ms=132590&P1&time=1601541337&S3&avgP=2.120&minP=<x,xxx>&maxP=<x,xxx>&stdP=<x,xxx>&avgR=<x,xxx>&minR=<x,xxx>&maxR=<x,xxx>&stdR=<x,xxx>
+sN=2974&ms=132590&P1&time=1601541338&S4&avgP=2.128&minP=<x,xxx>&maxP=<x,xxx>&stdP=<x,xxx>&avgR=<x,xxx>&minR=<x,xxx>&maxR=<x,xxx>&stdR=<x,xxx>
